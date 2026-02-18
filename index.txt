@@ -8,7 +8,11 @@
 </style>
 <script src=""></script>
 <body>
-
+  <header>
+    <nav>
+	  <li><a href="index.html</a></li>
+	</nav>
+  </header>
 <img src="img_la.jpg" alt="LA" style="width:100%">
 
 <div class="">
